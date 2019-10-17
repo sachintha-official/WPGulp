@@ -9,11 +9,14 @@
 	"src": {
 		"commitMessage": "🦄 Release %s",
 		"tagAnnotation": "🦄 Release %s"
+
 	},
-	"npm": {
+	"npm": 
+	{
 		"publish": true
 	},
-	"github": {
+	"github": 
+	{
 		"release": true,
 		"releaseName": "🦄 %s"
 	},
